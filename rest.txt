@@ -12,3 +12,4 @@ vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk1.v2vless.site:443?encryption=non
 vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:443?encryption=none&security=tls&sni=www.google.com&type=grpc&serviceName=vless-grpc&mode=gun#sshocean-break-gRPC
 vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:443?encryption=none&security=tls&sni=www.google.com&type=httpupgrade&host=uk2.v2vless.site&path=%2Fhttpupgrade#sshocean-break-httpupgrade
 vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:80?encryption=none&security=none&type=ws&host=uk2.v2vless.site&path=%2Fvless#sshocean-break-ws
+wireguard://?address=192.168.6.121/32&dns=1.1.1.1,8.8.8.8&privatekey=2MCdPbvWIpxZTWe6GUGPRSj9vFGz6qFX4ebvOq33uEM=&publickey=IQ4Kz6BAGRnscJx65+XbL0FfzoUQ2w7LMMmBoT6wYWc=&allowedips=0.0.0.0/0,::/0&endpoint=premiuk.vpnjantit.com:1024
