@@ -8,3 +8,7 @@ vless://8f9b593c-a382-11ef-bf53-cb964d90c1f5@tr1.vpnjantit.com:10002?encryption=
 vless://8f9b593c-a382-11ef-bf53-cb964d90c1f5@tr1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#trem-vpnjantit.com
 trojan://9acbbfe2-cd91-4572-8d55-6ee87eb69c00@uk2.safecdn.site:443?host=uk2.safecdn.site&path=%2F&sni=uk2.safecdn.site&type=ws#sshocean-ben_trojan_ws
 trojan://9acbbfe2-cd91-4572-8d55-6ee87eb69c00@uk2.safecdn.site:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#sshocean-ben_trojan-grpc
+vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk1.v2vless.site:443?encryption=none&security=tls&sni=www.google.com&type=ws&host=uk1.v2vless.site&path=%2Fvless#sshocean-bunny-ws
+vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:443?encryption=none&security=tls&sni=www.google.com&type=grpc&serviceName=vless-grpc&mode=gun#sshocean-break-gRPC
+vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:443?encryption=none&security=tls&sni=www.google.com&type=httpupgrade&host=uk2.v2vless.site&path=%2Fhttpupgrade#sshocean-break-httpupgrade
+vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:80?encryption=none&security=none&type=ws&host=uk2.v2vless.site&path=%2Fvless#sshocean-break-ws
