@@ -2,3 +2,5 @@ vless://b6764268-a26c-11ef-871c-5355730c89a4@premiuk.vpnjantit.com:10004?encrypt
 vless://cd185050-a26d-11ef-8015-23264020f1ce@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#rebate-vpnjantit.com
 vless://b6764268-a26c-11ef-871c-5355730c89a4@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#restore-vpnjantit.com
 vless://cd185050-a26d-11ef-8015-23264020f1ce@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#rebate-vpnjantit.com
+vless://df94f28a-a37e-11ef-bdd2-53057f26f1fd@sz1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#remark-vpnjantit.com
+vless://df94f28a-a37e-11ef-bdd2-53057f26f1fd@sz1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#remark-vpnjantit.com
