@@ -1,7 +1,3 @@
-vless://b6764268-a26c-11ef-871c-5355730c89a4@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#restore-vpnjantit.com
-vless://cd185050-a26d-11ef-8015-23264020f1ce@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#rebate-vpnjantit.com
-vless://b6764268-a26c-11ef-871c-5355730c89a4@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#restore-vpnjantit.com
-vless://cd185050-a26d-11ef-8015-23264020f1ce@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#rebate-vpnjantit.com
 vless://df94f28a-a37e-11ef-bdd2-53057f26f1fd@sz1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#remark-vpnjantit.com
 vless://df94f28a-a37e-11ef-bdd2-53057f26f1fd@sz1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#remark-vpnjantit.com
 vless://8f9b593c-a382-11ef-bf53-cb964d90c1f5@tr1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#trem-vpnjantit.com
@@ -10,6 +6,5 @@ trojan://9acbbfe2-cd91-4572-8d55-6ee87eb69c00@uk2.safecdn.site:443?host=uk2.safe
 trojan://9acbbfe2-cd91-4572-8d55-6ee87eb69c00@uk2.safecdn.site:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#sshocean-ben_trojan-grpc
 vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk1.v2vless.site:443?encryption=none&security=tls&sni=www.google.com&type=ws&host=uk1.v2vless.site&path=%2Fvless#sshocean-bunny-ws
 vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:443?encryption=none&security=tls&sni=www.google.com&type=grpc&serviceName=vless-grpc&mode=gun#sshocean-break-gRPC
-vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:443?encryption=none&security=tls&sni=www.google.com&type=httpupgrade&host=uk2.v2vless.site&path=%2Fhttpupgrade#sshocean-break-httpupgrade
 vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:80?encryption=none&security=none&type=ws&host=uk2.v2vless.site&path=%2Fvless#sshocean-break-ws
-wireguard://?address=192.168.6.121/32&dns=1.1.1.1,8.8.8.8&privatekey=2MCdPbvWIpxZTWe6GUGPRSj9vFGz6qFX4ebvOq33uEM=&publickey=IQ4Kz6BAGRnscJx65+XbL0FfzoUQ2w7LMMmBoT6wYWc=&allowedips=0.0.0.0/0,::/0&endpoint=premiuk.vpnjantit.com:1024
+vless://df94f28a-a37e-11ef-bdd2-53057f26f1fd@sz1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#remark-vpnjantit.com
