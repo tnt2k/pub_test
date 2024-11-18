@@ -1,14 +1,5 @@
-vless://df94f28a-a37e-11ef-bdd2-53057f26f1fd@sz1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#remark-vpnjantit.com
-vless://df94f28a-a37e-11ef-bdd2-53057f26f1fd@sz1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#remark-vpnjantit.com
-vless://8f9b593c-a382-11ef-bf53-cb964d90c1f5@tr1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#trem-vpnjantit.com
-vless://8f9b593c-a382-11ef-bf53-cb964d90c1f5@tr1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#trem-vpnjantit.com
 trojan://9acbbfe2-cd91-4572-8d55-6ee87eb69c00@uk2.safecdn.site:443?host=uk2.safecdn.site&path=%2F&sni=uk2.safecdn.site&type=ws#sshocean-ben_trojan_ws
 trojan://9acbbfe2-cd91-4572-8d55-6ee87eb69c00@uk2.safecdn.site:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#sshocean-ben_trojan-grpc
-vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk1.v2vless.site:443?encryption=none&security=tls&sni=www.google.com&type=ws&host=uk1.v2vless.site&path=%2Fvless#sshocean-bunny-ws
-vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:443?encryption=none&security=tls&sni=www.google.com&type=grpc&serviceName=vless-grpc&mode=gun#sshocean-break-gRPC
-vless://097752e5-a1ef-4d09-a4bc-a5bcb38fd6b8@uk2.v2vless.site:80?encryption=none&security=none&type=ws&host=uk2.v2vless.site&path=%2Fvless#sshocean-break-ws
 vless://df94f28a-a37e-11ef-bdd2-53057f26f1fd@sz1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#remark-vpnjantit.com
 vless://e524ceae-b662-4388-bc2a-97575471567b@185.112.146.146:443/?type=tcp&path=%2F&headerType=http&security=reality&pbk=QORmuhe-gGgtjjCUzo6vTzVsoIBBYqIi_LQXlxPNbgc&fp=random&sni=yahoo.com&sid=4599&spx=%2F#test-prqu1bz6
-vless://7945b529-269d-42fc-86b2-8efb77d98112@185.112.146.146:443/?type=tcp&path=%2F&headerType=http&security=reality&pbk=QORmuhe-gGgtjjCUzo6vTzVsoIBBYqIi_LQXlxPNbgc&fp=random&sni=yahoo.com&sid=4599&spx=%2F#test-g62o41sk
-vless://3d53b68e-e4a2-4411-8ca1-e5d749e90f87@185.112.146.146:443/?type=tcp&path=%2F&headerType=http&security=reality&pbk=QORmuhe-gGgtjjCUzo6vTzVsoIBBYqIi_LQXlxPNbgc&fp=random&sni=yahoo.com&sid=4599&spx=%2F#test-79blpmdk
-trojan://WicQcFqgeb@185.112.146.146:8080/?type=grpc&serviceName=&authority=&security=reality&pbk=VBPY7WWqW0PB_pSRKTnrShwewU_E9mu-yui-4gapNBc&fp=random&sni=yahoo.com&sid=6e25409ac3&spx=%2F#test2-qa5zi8nc
+trojan://LByNfyS9Vs@185.112.146.146:30675/?type=tcp&path=%2F&headerType=http&security=none#3u8twixm_poc_tr
