@@ -5,3 +5,5 @@ vless://e524ceae-b662-4388-bc2a-97575471567b@185.112.146.146:443/?type=tcp&path=
 trojan://LByNfyS9Vs@185.112.146.146:30675/?type=tcp&path=%2F&headerType=http&security=none#3u8twixm_poc_tr
 vless://c231d9af-14c6-4c87-96fb-e43b1b904434@185.112.146.146:443/?type=tcp&path=%2F&headerType=http&security=reality&pbk=ubnwUICWTliWuTS6ZfCgO9TFk9B0p1W98QmwkIC50Ck&fp=random&sni=google.com&sid=3a62684a&spx=%2F#custom-qnknp9sh_trpoc
 trojan://FCYSvYsd0S@185.112.146.146:30675/?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#tr2
+vless://dbe6eb7e-a686-11ef-a04e-f3a052c8f739@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#hamsterbooble-vpnjantit.com
+vless://0bfae748-a687-11ef-89ac-1b7f73ae2070@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#crust-vpnjantit.com
