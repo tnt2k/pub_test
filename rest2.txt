@@ -1,2 +1,4 @@
 vless://1b3be1bb-a31d-497a-9e56-d75964d4ada1@185.112.146.146:443/?type=tcp&path=%2F&headerType=http&security=reality&pbk=ubnwUICWTliWuTS6ZfCgO9TFk9B0p1W98QmwkIC50Ck&fp=random&sni=google.com&sid=3a62684a&spx=%2F#custom-ghgpampg_chk
 trojan://ZFOdKawGgi@185.112.146.146:30675/?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#g33aak68_chk2
+vless://eb27cb2f-9a34-4071-8f30-d42bb2994dc5@185.112.146.146:49232/?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=music.apple.com#rjnxhr3u_chk2
+trojan://6ap0b8DUpd@185.112.146.146:26155/?type=tcp&security=reality&pbk=X7QTu627vXdSGsVhmc2T1b45APqq1lTNCk5uD7h-JRY&fp=random&sni=yahoo.com&sid=32de86&spx=%2F#nrkxnn23_chk2
