@@ -1,2 +1,2 @@
 vless://1b3be1bb-a31d-497a-9e56-d75964d4ada1@185.112.146.146:443/?type=tcp&path=%2F&headerType=http&security=reality&pbk=ubnwUICWTliWuTS6ZfCgO9TFk9B0p1W98QmwkIC50Ck&fp=random&sni=google.com&sid=3a62684a&spx=%2F#custom-ghgpampg_chk
-vless://1b3be1bb-a31d-497a-9e56-d75964d4ada1@185.112.146.146:443/?type=tcp&path=%2F&headerType=http&security=reality&pbk=ubnwUICWTliWuTS6ZfCgO9TFk9B0p1W98QmwkIC50Ck&fp=random&sni=google.com&sid=3a62684a&spx=%2F#custom-ghgpampg_chk
+trojan://ZFOdKawGgi@185.112.146.146:30675/?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#g33aak68_chk2
