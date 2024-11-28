@@ -1,9 +1,5 @@
-trojan://9acbbfe2-cd91-4572-8d55-6ee87eb69c00@uk2.safecdn.site:443?host=uk2.safecdn.site&path=%2F&sni=uk2.safecdn.site&type=ws#sshocean-ben_trojan_ws
-trojan://9acbbfe2-cd91-4572-8d55-6ee87eb69c00@uk2.safecdn.site:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#sshocean-ben_trojan-grpc
-vless://df94f28a-a37e-11ef-bdd2-53057f26f1fd@sz1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#remark-vpnjantit.com
-vless://e524ceae-b662-4388-bc2a-97575471567b@185.112.146.146:443/?type=tcp&path=%2F&headerType=http&security=reality&pbk=QORmuhe-gGgtjjCUzo6vTzVsoIBBYqIi_LQXlxPNbgc&fp=random&sni=yahoo.com&sid=4599&spx=%2F#test-prqu1bz6
-trojan://LByNfyS9Vs@185.112.146.146:30675/?type=tcp&path=%2F&headerType=http&security=none#3u8twixm_poc_tr
-vless://c231d9af-14c6-4c87-96fb-e43b1b904434@185.112.146.146:443/?type=tcp&path=%2F&headerType=http&security=reality&pbk=ubnwUICWTliWuTS6ZfCgO9TFk9B0p1W98QmwkIC50Ck&fp=random&sni=google.com&sid=3a62684a&spx=%2F#custom-qnknp9sh_trpoc
 trojan://FCYSvYsd0S@185.112.146.146:30675/?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#tr2
-vless://dbe6eb7e-a686-11ef-a04e-f3a052c8f739@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#hamsterbooble-vpnjantit.com
-vless://0bfae748-a687-11ef-89ac-1b7f73ae2070@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#crust-vpnjantit.com
+vless://475bfe1e-ad83-11ef-af58-9f230d3754c2@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#rumble-vpnjantit.com
+vless://475bfe1e-ad83-11ef-af58-9f230d3754c2@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#rumble-vpnjantit.com
+vless://722ffde0-ad63-11ef-8e97-b708f4675364@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#credo-vpnjantit.com
+vless://722ffde0-ad63-11ef-8e97-b708f4675364@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#credo-vpnjantit.com
