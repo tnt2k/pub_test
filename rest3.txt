@@ -1,2 +1,2 @@
-vless://eb8a6b5c-b7dc-11ef-a262-7bb9a85145b6@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#flower-vpnjantit.com
-vless://eb8a6b5c-b7dc-11ef-a262-7bb9a85145b6@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#flower-vpnjantit.com
+vless://9fc7a922-c02f-11ef-a06c-d798d9104ac8@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#neel-vpnjantit.com
+vless://9fc7a922-c02f-11ef-a06c-d798d9104ac8@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#neel-vpnjantit.com
