@@ -1,2 +1,2 @@
-vless://9fc7a922-c02f-11ef-a06c-d798d9104ac8@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#neel-vpnjantit.com
-vless://9fc7a922-c02f-11ef-a06c-d798d9104ac8@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#neel-vpnjantit.com
+vless://5cf87c7a-c5d4-11ef-a5a7-8fe9d57503fa@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#triest-vpnjantit.com
+vless://5cf87c7a-c5d4-11ef-a5a7-8fe9d57503fa@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#triest-vpnjantit.com
