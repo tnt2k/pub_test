@@ -1,2 +1,4 @@
 vless://2a89e0fe-c8f8-11ef-81c2-27ff2e923f7a@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#tube-vpnjantit.com
 vless://2a89e0fe-c8f8-11ef-81c2-27ff2e923f7a@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#tube-vpnjantit.com
+vless://8cebff68-c8fb-11ef-a8af-fb50a89f52ba@sz1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#insta-vpnjantit.com
+vless://8cebff68-c8fb-11ef-a8af-fb50a89f52ba@sz1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#insta-vpnjantit.com
