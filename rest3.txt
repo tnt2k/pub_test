@@ -1,4 +1,2 @@
-vless://d68132e6-d71b-11ef-a05b-47be153a7653@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#Tube27-vpnjantit.com
-vless://d68132e6-d71b-11ef-a05b-47be153a7653@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#Tube27-vpnjantit.com
-vless://60ddeaf0-d759-11ef-9243-d3b67ee2c568@sz1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#Tube5-vpnjantit.com
-vless://60ddeaf0-d759-11ef-9243-d3b67ee2c568@sz1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#Tube5-vpnjantit.com
+vless://9219f51a-dd75-11ef-b7ce-274f452e83a8@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#tube27-vpnjantit.com
+vless://9219f51a-dd75-11ef-b7ce-274f452e83a8@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#tube27-vpnjantit.com
