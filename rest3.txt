@@ -1,2 +1,2 @@
-vless://296b3bb0-fe76-11ef-a51e-eb54deeedcdb@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#tube7777-vpnjantit.com
-vless://296b3bb0-fe76-11ef-a51e-eb54deeedcdb@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#tube7777-vpnjantit.com
+vless://b67d178c-0658-11f0-be8f-d3247d1f4917@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#youtube777-vpnjantit.com
+vless://b67d178c-0658-11f0-be8f-d3247d1f4917@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#youtube777-vpnjantit.com
