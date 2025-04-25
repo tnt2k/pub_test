@@ -2,3 +2,5 @@ vless://d7d38a16-1e67-11f0-baaa-0be5cc88e218@premiuk.vpnjantit.com:10002?encrypt
 vless://d7d38a16-1e67-11f0-baaa-0be5cc88e218@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#YouTube-vpnjantit.com
 vless://172ccd98-21a2-11f0-8ac5-1bde74475aeb@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#round-vpnjantit.com
 vless://172ccd98-21a2-11f0-8ac5-1bde74475aeb@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#round-vpnjantit.com
+vless://c20249ec-21a6-11f0-9716-0b853cc47e2d@sz1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#booble-vpnjantit.com
+vless://c20249ec-21a6-11f0-9716-0b853cc47e2d@sz1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#booble-vpnjantit.com
