@@ -2,3 +2,4 @@ vless://6ac846a6-30b8-11f0-a1ea-b7b7b59411cf@premiuk.vpnjantit.com:10002?encrypt
 vless://6ac846a6-30b8-11f0-a1ea-b7b7b59411cf@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#lantan-vpnjantit.com
 vless://a14ed3f2-30b8-11f0-aa98-23c53e211ec1@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#tube-vpnjantit.com
 vless://a14ed3f2-30b8-11f0-aa98-23c53e211ec1@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#tube-vpnjantit.com
+vless://213706f4-2cb1-11f0-aa7e-83fe18c53a24@be2.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#booble-vpnjantit.com
