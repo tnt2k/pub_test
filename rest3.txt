@@ -1,2 +1,1 @@
-vless://50765044-4504-11f0-b1aa-5790b02ca1f7@gr8.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#bern-vpnjantit.com
-vless://76a709ac-4504-11f0-85bd-df0b23f8a448@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#booble-vpnjantit.com
+vless://f69448ce-4913-11f0-aade-67f0a4035bb3@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#burger-vpnjantit.com
