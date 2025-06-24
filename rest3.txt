@@ -1,4 +1,2 @@
-vless://c374c93e-4c3b-11f0-b3bc-cf97cbe5a1c3@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#vagon-vpnjantit.com
-vless://fc4702ae-4c3b-11f0-b010-8324601a2b21@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#tube-vpnjantit.com
-vless://da40e358-4e63-11f0-a38f-e7a5fa00c25b@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#Boom-vpnjantit.com
-vless://da40e358-4e63-11f0-a38f-e7a5fa00c25b@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#Boom-vpnjantit.com
+vless://4c8a21ec-50fb-11f0-9082-cf8fcc7bd247@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#Rad111-vpnjantit.com
+vless://4c8a21ec-50fb-11f0-9082-cf8fcc7bd247@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#Rad111-vpnjantit.com
