@@ -1,2 +1,2 @@
-vless://1934cffc-55cb-11f0-b0df-6f32e52c9cb6@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#bartol-vpnjantit.com
-vless://1934cffc-55cb-11f0-b0df-6f32e52c9cb6@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#bartol-vpnjantit.com
+vless://4c21e8da-57df-11f0-a9b4-2f9189329770@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#ruster-vpnjantit.com
+vless://4c21e8da-57df-11f0-a9b4-2f9189329770@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#ruster-vpnjantit.com
