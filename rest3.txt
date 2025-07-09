@@ -1,2 +1,2 @@
-vless://4c21e8da-57df-11f0-a9b4-2f9189329770@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#ruster-vpnjantit.com
-vless://4c21e8da-57df-11f0-a9b4-2f9189329770@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#ruster-vpnjantit.com
+vless://3170f1aa-5cbe-11f0-b771-e7a6d6140fc6@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#tube777-vpnjantit.com
+vless://3170f1aa-5cbe-11f0-b771-e7a6d6140fc6@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#tube777-vpnjantit.com
