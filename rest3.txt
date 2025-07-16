@@ -1,2 +1,1 @@
-vless://5b396ef4-5fc0-11f0-bf46-e3ba0c8560dd@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#reemonte-vpnjantit.com
-vless://5b396ef4-5fc0-11f0-bf46-e3ba0c8560dd@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#reemonte-vpnjantit.com
+
