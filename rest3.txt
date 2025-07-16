@@ -1,1 +1,2 @@
-
+vless://cf837ee2-6229-11f0-b58c-670e8cf87ecf@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#yoyobeer987-vpnjantit.com
+vless://cf837ee2-6229-11f0-b58c-670e8cf87ecf@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#yoyobeer987-vpnjantit.com
