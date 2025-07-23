@@ -1,2 +1,2 @@
-vless://845f847e-62ec-11f0-83ed-77f4061565e1@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#Reefinn-vpnjantit.com
-vless://845f847e-62ec-11f0-83ed-77f4061565e1@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#Reefinn-vpnjantit.com
+vless://e09d67fe-6802-11f0-898e-cb9e5e722a20@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#vast-vpnjantit.com
+vless://e09d67fe-6802-11f0-898e-cb9e5e722a20@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#vast-vpnjantit.com
