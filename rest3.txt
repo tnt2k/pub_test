@@ -1,2 +1,2 @@
-vless://e09d67fe-6802-11f0-898e-cb9e5e722a20@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#vast-vpnjantit.com
-vless://e09d67fe-6802-11f0-898e-cb9e5e722a20@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#vast-vpnjantit.com
+vless://792f0ee0-6921-11f0-b289-4b5bf2c50ada@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#booble-vpnjantit.com
+vless://792f0ee0-6921-11f0-b289-4b5bf2c50ada@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#booble-vpnjantit.com
