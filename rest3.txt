@@ -1,4 +1,2 @@
-vless://792f0ee0-6921-11f0-b289-4b5bf2c50ada@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#booble-vpnjantit.com
-vless://792f0ee0-6921-11f0-b289-4b5bf2c50ada@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#booble-vpnjantit.com
-vless://cce7ff06-6921-11f0-82e6-0be5454eb1cb@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#vakka23-vpnjantit.com
-vless://cce7ff06-6921-11f0-82e6-0be5454eb1cb@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#vakka23-vpnjantit.com
+vless://2f495720-6d1a-11f0-a524-ab17ccc38fb6@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#cream-vpnjantit.com
+vless://2f495720-6d1a-11f0-a524-ab17ccc38fb6@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#cream-vpnjantit.com
