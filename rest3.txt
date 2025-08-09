@@ -1,4 +1,2 @@
-vless://14ce66c0-7101-11f0-885f-e7cbfbba3a7b@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#hamster34-vpnjantit.com
-vless://14ce66c0-7101-11f0-885f-e7cbfbba3a7b@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#hamster34-vpnjantit.com
-vless://4c908f2a-7101-11f0-b9e8-7349fd2c410d@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#lastnight-vpnjantit.com
-vless://4c908f2a-7101-11f0-b9e8-7349fd2c410d@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#lastnight-vpnjantit.com
+vless://a6be8b40-753f-11f0-8535-1fe34aa59951@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#barsum-vpnjantit.com
+vless://a6be8b40-753f-11f0-8535-1fe34aa59951@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#barsum-vpnjantit.com
