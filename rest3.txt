@@ -1,2 +1,2 @@
-vless://a6be8b40-753f-11f0-8535-1fe34aa59951@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#barsum-vpnjantit.com
-vless://a6be8b40-753f-11f0-8535-1fe34aa59951@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#barsum-vpnjantit.com
+vless://c5923b7e-78ce-11f0-bc34-97c59515a0df@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#redneck777-vpnjantit.com
+vless://c5923b7e-78ce-11f0-bc34-97c59515a0df@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#redneck777-vpnjantit.com
