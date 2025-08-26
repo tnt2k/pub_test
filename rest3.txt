@@ -1,2 +1,2 @@
-vless://28d69f1a-7d91-11f0-9e1f-9f63ca1dfce2@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#rasur-vpnjantit.com
-vless://28d69f1a-7d91-11f0-9e1f-9f63ca1dfce2@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#rasur-vpnjantit.com
+vless://10583b4a-8284-11f0-abac-b3176072c3e9@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#wireless-vpnjantit.com
+vless://10583b4a-8284-11f0-abac-b3176072c3e9@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#wireless-vpnjantit.com
