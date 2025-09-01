@@ -1,2 +1,2 @@
-vless://3b1f7f4c-856c-11f0-888d-27e44489ba9c@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#roomble-vpnjantit.com
-vless://3b1f7f4c-856c-11f0-888d-27e44489ba9c@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#roomble-vpnjantit.com
+vless://8b572054-8743-11f0-b19f-97784115d875@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#remmmin-vpnjantit.com
+vless://8b572054-8743-11f0-b19f-97784115d875@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#remmmin-vpnjantit.com
