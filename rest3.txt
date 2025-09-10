@@ -1,2 +1,2 @@
-vless://ee6c53aa-8bbf-11f0-bf20-afd0b2405744@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#rust-vpnjantit.com
-vless://ee6c53aa-8bbf-11f0-bf20-afd0b2405744@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#rust-vpnjantit.com
+vless://4db0fec0-8e26-11f0-a1ce-f73d97eecbd0@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#mawerick-vpnjantit.com
+vless://4db0fec0-8e26-11f0-a1ce-f73d97eecbd0@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#mawerick-vpnjantit.com
