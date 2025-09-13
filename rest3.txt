@@ -1,2 +1,2 @@
-vless://4db0fec0-8e26-11f0-a1ce-f73d97eecbd0@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#mawerick-vpnjantit.com
-vless://4db0fec0-8e26-11f0-a1ce-f73d97eecbd0@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#mawerick-vpnjantit.com
+vless://63bb7af6-90a6-11f0-904e-3723bc88ed0f@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#premotor-vpnjantit.com
+vless://63bb7af6-90a6-11f0-904e-3723bc88ed0f@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#premotor-vpnjantit.com
