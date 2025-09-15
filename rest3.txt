@@ -1,2 +1,2 @@
-vless://63bb7af6-90a6-11f0-904e-3723bc88ed0f@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#premotor-vpnjantit.com
-vless://63bb7af6-90a6-11f0-904e-3723bc88ed0f@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#premotor-vpnjantit.com
+vless://d498d838-921b-11f0-9a5e-ff09c74aacbb@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#remark77-vpnjantit.com
+vless://d498d838-921b-11f0-9a5e-ff09c74aacbb@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#remark77-vpnjantit.com
