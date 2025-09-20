@@ -1,2 +1,2 @@
-vless://c9383786-9392-11f0-920a-5b252c100751@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#laladance-vpnjantit.com
-vless://c9383786-9392-11f0-920a-5b252c100751@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#laladance-vpnjantit.com
+vless://5335bb66-963b-11f0-81ec-6797015f2897@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#tamtam-vpnjantit.com
+vless://5335bb66-963b-11f0-81ec-6797015f2897@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#tamtam-vpnjantit.com
