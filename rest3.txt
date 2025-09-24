@@ -1,2 +1,2 @@
-vless://e8a49ca0-97c9-11f0-997e-ab70a2c0681c@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#laladance-vpnjantit.com
-vless://e8a49ca0-97c9-11f0-997e-ab70a2c0681c@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#laladance-vpnjantit.com
+vless://9cbff5cc-995f-11f0-92e0-5749ed7f366b@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#kastnight-vpnjantit.com
+vless://9cbff5cc-995f-11f0-92e0-5749ed7f366b@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#kastnight-vpnjantit.com
