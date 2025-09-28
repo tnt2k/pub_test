@@ -1,2 +1,2 @@
-vless://9cbff5cc-995f-11f0-92e0-5749ed7f366b@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#kastnight-vpnjantit.com
-vless://9cbff5cc-995f-11f0-92e0-5749ed7f366b@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#kastnight-vpnjantit.com
+vless://b33c34cc-9c49-11f0-ac2e-a78b8c321234@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#labubu-vpnjantit.com
+vless://b33c34cc-9c49-11f0-ac2e-a78b8c321234@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#labubu-vpnjantit.com
