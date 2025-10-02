@@ -1,2 +1,2 @@
-vless://b33c34cc-9c49-11f0-ac2e-a78b8c321234@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#labubu-vpnjantit.com
-vless://b33c34cc-9c49-11f0-ac2e-a78b8c321234@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#labubu-vpnjantit.com
+vless://7f21b6bc-9f78-11f0-8312-d373fc5951ea@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#lantan-vpnjantit.com
+vless://7f21b6bc-9f78-11f0-8312-d373fc5951ea@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#lantan-vpnjantit.com
