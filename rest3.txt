@@ -1,2 +1,2 @@
-vless://8a89c810-a279-11f0-ad41-932640d82395@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#lastnight-vpnjantit.com
-vless://8a89c810-a279-11f0-ad41-932640d82395@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#lastnight-vpnjantit.com
+vless://5602ff0a-a506-11f0-a375-3fd56dd44dde@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#creamsoda-vpnjantit.com
+vless://5602ff0a-a506-11f0-a375-3fd56dd44dde@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#creamsoda-vpnjantit.com
