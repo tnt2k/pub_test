@@ -1,2 +1,2 @@
-vless://3a30278c-a8c9-11f0-a30e-2fbfdec4a1d5@ee2.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#creator77-vpnjantit.com
-vless://3a30278c-a8c9-11f0-a30e-2fbfdec4a1d5@ee2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#creator77-vpnjantit.com
+vless://2279eada-abec-11f0-a2a1-4f7e0550cd85@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#lancet-vpnjantit.com
+vless://2279eada-abec-11f0-a2a1-4f7e0550cd85@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#lancet-vpnjantit.com
