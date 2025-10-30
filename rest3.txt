@@ -1,2 +1,2 @@
-vless://0095e24a-b306-11f0-a245-efe98f022fd6@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#bamble-vpnjantit.com
-vless://0095e24a-b306-11f0-a245-efe98f022fd6@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#bamble-vpnjantit.com
+vless://15882e6a-b572-11f0-acd1-e74d12fd8fa4@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#ramon-vpnjantit.com
+vless://15882e6a-b572-11f0-acd1-e74d12fd8fa4@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#ramon-vpnjantit.com
