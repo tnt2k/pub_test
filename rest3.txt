@@ -1,2 +1,2 @@
-vless://15882e6a-b572-11f0-acd1-e74d12fd8fa4@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#ramon-vpnjantit.com
-vless://15882e6a-b572-11f0-acd1-e74d12fd8fa4@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#ramon-vpnjantit.com
+vless://fb187ed2-b827-11f0-84ee-5f799bbac875@premiuk.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#rebate-vpnjantit.com
+vless://fb187ed2-b827-11f0-84ee-5f799bbac875@premiuk.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#rebate-vpnjantit.com
