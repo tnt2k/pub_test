@@ -1,2 +1,2 @@
-vless://1166845e-ba2b-11f0-988c-c34c8b828caf@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#charman-vpnjantit.com
-vless://1166845e-ba2b-11f0-988c-c34c8b828caf@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#charman-vpnjantit.com
+vless://5ace4056-bd5e-11f0-b214-7b5aa025b0cc@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#myopic-vpnjantit.com
+vless://5ace4056-bd5e-11f0-b214-7b5aa025b0cc@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#myopic-vpnjantit.com
