@@ -1,2 +1,2 @@
-vless://5ace4056-bd5e-11f0-b214-7b5aa025b0cc@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#myopic-vpnjantit.com
-vless://5ace4056-bd5e-11f0-b214-7b5aa025b0cc@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#myopic-vpnjantit.com
+vless://b9b7cfd0-bfcd-11f0-894c-73949a5419b7@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#tone-vpnjantit.com
+vless://b9b7cfd0-bfcd-11f0-894c-73949a5419b7@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#tone-vpnjantit.com
