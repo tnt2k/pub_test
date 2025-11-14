@@ -1,2 +1,2 @@
-vless://b9b7cfd0-bfcd-11f0-894c-73949a5419b7@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#tone-vpnjantit.com
-vless://b9b7cfd0-bfcd-11f0-894c-73949a5419b7@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#tone-vpnjantit.com
+vless://bdf9e650-c18f-11f0-9ef9-6b74d95760b1@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#tronhaym-vpnjantit.com
+vless://bdf9e650-c18f-11f0-9ef9-6b74d95760b1@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#tronhaym-vpnjantit.com
