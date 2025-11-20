@@ -1,2 +1,2 @@
-vless://620f503c-c2e3-11f0-a88b-ef0ee545b181@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#reetm-vpnjantit.com
-vless://620f503c-c2e3-11f0-a88b-ef0ee545b181@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#reetm-vpnjantit.com
+vless://e09d8c92-c5e6-11f0-a5c1-c77f7801f4c5@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#DNA77-vpnjantit.com
+vless://e09d8c92-c5e6-11f0-a5c1-c77f7801f4c5@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#DNA77-vpnjantit.com
