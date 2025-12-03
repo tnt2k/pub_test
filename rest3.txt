@@ -1,2 +1,2 @@
-vless://794ed2c8-ce13-11f0-9f90-ef31653d693c@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#robit-vpnjantit.com
-vless://794ed2c8-ce13-11f0-9f90-ef31653d693c@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#robit-vpnjantit.com
+vless://2a0ebd50-d060-11f0-9b8a-6fe8e9d5f3eb@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#redteam-vpnjantit.com
+vless://2a0ebd50-d060-11f0-9b8a-6fe8e9d5f3eb@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#redteam-vpnjantit.com
