@@ -1,2 +1,2 @@
-vless://2a0ebd50-d060-11f0-9b8a-6fe8e9d5f3eb@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#redteam-vpnjantit.com
-vless://2a0ebd50-d060-11f0-9b8a-6fe8e9d5f3eb@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#redteam-vpnjantit.com
+vless://9d465cee-d284-11f0-8a44-4fd5fc111fd5@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#restore-vpnjantit.com
+vless://9d465cee-d284-11f0-8a44-4fd5fc111fd5@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#restore-vpnjantit.com
