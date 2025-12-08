@@ -1,2 +1,2 @@
-vless://9d465cee-d284-11f0-8a44-4fd5fc111fd5@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#restore-vpnjantit.com
-vless://9d465cee-d284-11f0-8a44-4fd5fc111fd5@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#restore-vpnjantit.com
+vless://9542b08a-d403-11f0-9d97-07ba0703d606@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#respect-vpnjantit.com
+vless://9542b08a-d403-11f0-9d97-07ba0703d606@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#respect-vpnjantit.com
