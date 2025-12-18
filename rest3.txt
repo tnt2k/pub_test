@@ -1,2 +1,2 @@
-vless://a1157d2a-dab1-11f0-b346-6b4982540ad7@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#lostfilm-vpnjantit.com
-vless://a1157d2a-dab1-11f0-b346-6b4982540ad7@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#lostfilm-vpnjantit.com
+vless://09485304-dc42-11f0-823b-ef59e91b2df8@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#rusting-vpnjantit.com
+vless://09485304-dc42-11f0-823b-ef59e91b2df8@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#rusting-vpnjantit.com
