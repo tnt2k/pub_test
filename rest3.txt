@@ -1,2 +1,2 @@
-vless://09485304-dc42-11f0-823b-ef59e91b2df8@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#rusting-vpnjantit.com
-vless://09485304-dc42-11f0-823b-ef59e91b2df8@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#rusting-vpnjantit.com
+vless://c3068dae-df5f-11f0-8574-837d896cca98@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#creator-vpnjantit.com
+vless://c3068dae-df5f-11f0-8574-837d896cca98@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#creator-vpnjantit.com
