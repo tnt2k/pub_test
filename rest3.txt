@@ -1,2 +1,2 @@
-vless://f43ba31a-e08f-11f0-bbb3-9366a6e5f6bd@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#rebate-vpnjantit.com
-vless://f43ba31a-e08f-11f0-bbb3-9366a6e5f6bd@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#rebate-vpnjantit.com
+vless://2fcae6ca-e342-11f0-ace9-57bdf8f84ccc@ee1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#rebate-vpnjantit.com
+vless://2fcae6ca-e342-11f0-ace9-57bdf8f84ccc@ee1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#rebate-vpnjantit.com
